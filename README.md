@@ -1,8 +1,8 @@
 Python Explore Modules Func Tool
 
 Usage   : pyproperty [module]
-Example : pyproperty os
-          pyproperty sys
+
+Example : pyproperty os sys time
 
 Example Output : 
 
