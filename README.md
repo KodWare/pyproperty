@@ -1,6 +1,6 @@
 Python Explore Modules Func Tool
 
-Usage   : pyproperty <module>
+Usage   : pyproperty [module]
 Example : pyproperty os
           pyproperty sys
 
