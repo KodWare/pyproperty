@@ -1,8 +1,17 @@
 Python Explore Modules Func Tool
 
-Usage   : pyproperty [module]
+Install
 
-Example : pyproperty os sys time
+    python3 setup.py install
+
+
+Usage   : 
+ 
+    pyproperty [module]
+
+Example : 
+    
+    pyproperty os sys time
 
 Example Output : 
 
