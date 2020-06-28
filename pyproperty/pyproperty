@@ -1,9 +1,10 @@
+#! /usr/bin/python3
 from __future__ import print_function
 import sys
-__import__("colorama").init()
+__import__("colorama").init() # You can disable this 
 
 if len(sys.argv) < 2:
-    sys.exit("Usage   : {ss} <module>\nExample : {ss} os urllib.request.get".format(ss=sys.argv[0]))
+    sys.exit("Usage   : {ss} <module>\nExample : {ss} os urllib.request".format(ss=sys.argv[0]))
 sys.argv.pop(0)
 import_list = []
 for i in sys.argv:
