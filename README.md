@@ -18,3 +18,4 @@ Example :
 Example Output : 
 
 <image src="https://github.com/raifpy/pyproperty/blob/master/up.png">
+<image src="https://github.com/raifpy/pyproperty/blob/master/up.png2">
