@@ -7,11 +7,13 @@ Install
 
 Usage   : 
  
-    pyproperty [module]
+    pyproperty [module] [-c/--call]
 
 Example : 
     
     pyproperty os sys time
+    pyproperty os -c
+
 
 Example Output : 
 
