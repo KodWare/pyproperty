@@ -12,7 +12,7 @@ setuptools.setup(
     long_description=long_description,
     url = "https://github.com/raifpy/pyproperty",
     packages=setuptools.find_packages(),
-    install_requires = ["colorama"],
+    install_requires = ["colorama","psutil"],
     python_requires= ">=3.5",
     scripts = ["pyproperty/pyproperty"]
         )
